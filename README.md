@@ -12,4 +12,4 @@
 - **Thursday**
   - 12.00 [Comp1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335101)
 - **Friday**
-  - 15.00 [Comm1000 - Intro to College Communic.]
+  - 15.00 [Comm1000 - Intro to College Communic.](https://learn.georgebrown.ca/d2l/home/315810)
